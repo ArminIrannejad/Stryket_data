@@ -1,1 +1,1 @@
-# Stryket_data
+# Data for Stryket
